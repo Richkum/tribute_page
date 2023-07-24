@@ -1,24 +1,20 @@
 body {
   background-color: #dcdcdc;
-
 }
 
 #title {
   text-align: center;
-  font-size: 50px;
-
+   font-size: 50px;
 }
 
 #describtion { 
   text-align: center;
-
 }
 
 .hearder {
   text-align: center;
   font-size: 20px;
   padding: 50px;
-
 }
 
 img {
@@ -30,12 +26,10 @@ img {
   width: 86vw;
   margin: 50px 3px;
   padding: 30px 45px;
-  border:  10px solid #fff;
-
+  border: 10px solid #fff;
 }
 
 .page {
   margin: 40px 200px;
   line-height: 35px;
- 
 }
