@@ -1,0 +1,35 @@
+body {
+  background-color: #dcdcdc;
+}
+
+#title {
+  text-align: center;
+  font-size: 50px;
+}
+
+#describtion {
+  text-align: center;
+}
+
+.hearder {
+  text-align: center;
+  font-size: 20px;
+  padding: 50px;
+}
+
+img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #fff;
+  width: 86vw;
+  margin: 50px 3px;
+  padding: 30px 45px;
+  border: 10px solid #fff;
+}
+
+.page {
+  margin: 40px 200px;
+  line-height: 35px;
+}
